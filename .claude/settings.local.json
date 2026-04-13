@@ -5,7 +5,8 @@
       "mcp__plugin_episodic-memory_episodic-memory__search",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push)"
+      "Bash(git push)",
+      "Bash(git -C /Users/xubo/work/ai/superpowers-marketplace remote -v)"
     ],
     "deny": [],
     "ask": []

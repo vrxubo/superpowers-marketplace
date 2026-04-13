@@ -7,7 +7,7 @@ Curated Claude Code plugins for skills, workflows, and productivity tools.
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add obra/superpowers-marketplace
+/plugin marketplace add vrxubo/superpowers-marketplace
 ```
 
 ## Available Plugins
@@ -29,7 +29,7 @@ Add this marketplace to Claude Code:
 - Skills-search tool for discovery
 - SessionStart context injection
 
-**Repository:** https://github.com/obra/superpowers
+**Repository:** https://github.com/vrxubo/superpowers
 
 ---
 
@@ -50,7 +50,7 @@ Add this marketplace to Claude Code:
 - All 18 rules for clear, concise writing
 - Grammar, punctuation, and composition guidance
 
-**Repository:** https://github.com/obra/the-elements-of-style
+**Repository:** https://github.com/vrxubo/the-elements-of-style
 
 ---
 
@@ -71,7 +71,7 @@ Add this marketplace to Claude Code:
 - Self-update mechanism for documentation
 - Complete reference for plugin development, skills, MCP servers, and extensions
 
-**Repository:** https://github.com/obra/superpowers-developing-for-claude-code
+**Repository:** https://github.com/vrxubo/superpowers-developing-for-claude-code
 
 ---
 
@@ -92,7 +92,7 @@ Add this marketplace to Claude Code:
 - Read recent entries with full content retrieval
 - Dual storage: project-local and user-global journals
 
-**Repository:** https://github.com/obra/private-journal-mcp
+**Repository:** https://github.com/vrxubo/private-journal-mcp
 
 ---
 
@@ -107,8 +107,8 @@ superpowers-marketplace/
 
 ## Support
 
-- **Issues**: https://github.com/obra/superpowers-marketplace/issues
-- **Core Plugin**: https://github.com/obra/superpowers
+- **Issues**: https://github.com/vrxubo/superpowers-marketplace/issues
+- **Core Plugin**: https://github.com/vrxubo/superpowers
 
 ## License
 
