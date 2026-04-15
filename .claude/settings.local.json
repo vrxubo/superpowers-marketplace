@@ -6,7 +6,10 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push)",
-      "Bash(git -C /Users/xubo/work/ai/superpowers-marketplace remote -v)"
+      "Bash(git -C /Users/xubo/work/ai/superpowers-marketplace remote -v)",
+      "WebFetch(domain:github.com)",
+      "Bash(git ls-remote:*)",
+      "Skill(superpowers:brainstorming)"
     ],
     "deny": [],
     "ask": []
